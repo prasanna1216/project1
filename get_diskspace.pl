@@ -1,4 +1,6 @@
-e strict;
+#!/usr/bin/perl
+
+use strict;
 use warnings;
 use Getopt::Long;
 use lib "/disks/USD_dumps1/bin";
